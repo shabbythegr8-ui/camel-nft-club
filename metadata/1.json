@@ -1,7 +1,7 @@
 {
   "name": "CAMEL NFT CLUB #0001",
   "description": "A CAMEL NFT CLUB prototype collectible. Artwork and traits are provisional for testing.",
-  "image": "https://YOUR-USERNAME.github.io/camel-nft-club/images/1.png",
+  "image": "https://shabbythegr8-ui.github.io/camel-nft-club/images/1.png",
   "attributes": [
     {
       "trait_type": "Background",
